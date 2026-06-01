@@ -358,7 +358,7 @@
                 <span class="block text-xs text-slate-400">Llamar / Móvil</span>
                 <span class="text-sm font-medium text-white">+1 (786) 330-6020</span>
             </a>
-            <a href="https://www.linkedin.com/in/jorge-solano-jim%C3%A9nez-9438b963" target="_blank" class="p-4 rounded-xl bg-slate-900/50 border border-slate-800 hover:border-indigo-500/50 hover:bg-slate-900 transition-all group">
+            <a href="https://www.linkedin.com/in/jorge-solano-jiménez-9438b963" target="_blank" class="p-4 rounded-xl bg-slate-900/50 border border-slate-800 hover:border-indigo-500/50 hover:bg-slate-900 transition-all group">
                 <i class="fa-brands fa-linkedin text-indigo-400 text-lg mb-2 group-hover:scale-110 transition-transform"></i>
                 <span class="block text-xs text-slate-400">Perfil Profesional</span>
                 <span class="text-sm font-medium text-white">LinkedIn /jorge-solano</span>
